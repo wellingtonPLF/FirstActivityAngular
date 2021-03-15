@@ -1,6 +1,6 @@
 import { Component } from "@angular/core";
 import { Usuario } from "../shared/model/usuario";
-//Eita
+
 @Component({
   selector: "app-root",
   templateUrl: "./app.component.html",
