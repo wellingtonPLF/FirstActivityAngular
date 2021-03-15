@@ -1,5 +1,26 @@
-.mat-card-simples{
+.mat-card-simples {
   max-width: 300px;
   background-color: aliceblue;
   margin-top: 10px;
+}
+
+.mat-card-simples2 {
+  max-width: 650px;
+  background-color: rgb(224, 193, 220);
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+.mat-form-principal {
+  margin-left: 5px;
+}
+
+.mat-card-align {
+  display: flex;
+}
+
+.mat-card-bottom {
+  max-width: 100%;
+  display: flex;
+  justify-content: center;
 }
